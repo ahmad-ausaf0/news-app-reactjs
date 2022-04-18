@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c02ca6a1.css","mappings":"AAAA,MAEE,wBAAyB,CAD1B,eAGD","sources":["App.css"],"sourcesContent":[".card {\r\n\toverflow: hidden;\r\n\t border-radius: 10px solid;\r\n\t  \r\n}\r\n"],"names":[],"sourceRoot":""}
